@@ -1,1 +1,2 @@
-# formulario-Hotel
+# Sistema de Reservas y Descuentos para un Hotel en Visual Basic .NET
+Desarrollo de una aplicación en Visual Basic .NET para reservas de hotel con formulario de ingreso de datos, cálculo de descuentos basados en cupones y generación de tickets con detalles de reserva y descuento aplicado.
